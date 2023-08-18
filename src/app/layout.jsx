@@ -7,8 +7,8 @@ import '@/styles/tailwind.css'
 
 export const metadata = {
   title: {
-    template: '%s - Neo N3 Resource',
-    default: 'Neo N3 Resource',
+    template: '%s - Neo N3 Resources',
+    default: 'Neo N3 Resources',
   },
 }
 
