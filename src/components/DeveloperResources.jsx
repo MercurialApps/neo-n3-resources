@@ -45,6 +45,11 @@ const developerResources = [
     name: 'Neo Name Service',
     description: 'A distributed open naming system based on Neo blockchain.',
   },
+  {
+    href: '/neoevm',
+    name: 'Neo EVM',
+    description: 'An EVM side chain on the Neo blockchain.',
+  },
 ]
 
 export function DeveloperResources() {
